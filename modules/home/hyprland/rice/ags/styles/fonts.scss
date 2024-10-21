@@ -1,0 +1,10 @@
+@use "variables.scss" as *;
+
+.txt-smallie {
+  font-size: .73rem;
+  color: transparentize($fg, .5)
+}
+
+.txt-smaller {
+  font-size: .85rem;
+}
